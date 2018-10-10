@@ -27,5 +27,8 @@
     <ClCompile Include="Yoon21-2-2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="CircularQueue_LinkedList.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

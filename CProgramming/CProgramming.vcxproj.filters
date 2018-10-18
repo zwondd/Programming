@@ -33,5 +33,14 @@
     <ClCompile Include="function_call.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="extern_test.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="sub.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bit_operation.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
